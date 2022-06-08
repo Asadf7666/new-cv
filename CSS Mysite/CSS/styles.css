@@ -1,0 +1,38 @@
+.top-container {
+  background-color: #CDF0EA;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0px;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Arvo', serif;
+  font-size: 370%;
+  margin-top: 0px;
+  margin-bottom: 0px
+}
+
+h2{
+  font-size: 1.5rem;
+}
+.bottom{
+  position: absolute;
+}
+.top{
+  position: relative;
+  left: 250px;
+
+}
